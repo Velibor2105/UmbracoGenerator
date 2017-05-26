@@ -1,0 +1,7 @@
+D:\TestWork\GeneratorSolution\Generator.Parser\bin\Debug\Generator.Parser.dll
+D:\TestWork\GeneratorSolution\Generator.Parser\bin\Debug\Generator.Parser.pdb
+D:\TestWork\GeneratorSolution\Generator.Parser\bin\Debug\Generator.Entity.dll
+D:\TestWork\GeneratorSolution\Generator.Parser\bin\Debug\Generator.Entity.pdb
+D:\TestWork\GeneratorSolution\Generator.Parser\obj\Debug\Generator.Parser.csprojResolveAssemblyReference.cache
+D:\TestWork\GeneratorSolution\Generator.Parser\obj\Debug\Generator.Parser.dll
+D:\TestWork\GeneratorSolution\Generator.Parser\obj\Debug\Generator.Parser.pdb

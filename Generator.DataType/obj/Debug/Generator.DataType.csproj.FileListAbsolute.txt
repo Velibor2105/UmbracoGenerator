@@ -1,0 +1,7 @@
+D:\TestWork\GeneratorSolution\Generator.DataType\bin\Debug\Generator.DataType.dll
+D:\TestWork\GeneratorSolution\Generator.DataType\bin\Debug\Generator.DataType.pdb
+D:\TestWork\GeneratorSolution\Generator.DataType\bin\Debug\Generator.Entity.dll
+D:\TestWork\GeneratorSolution\Generator.DataType\bin\Debug\Generator.Entity.pdb
+D:\TestWork\GeneratorSolution\Generator.DataType\obj\Debug\Generator.DataType.csprojResolveAssemblyReference.cache
+D:\TestWork\GeneratorSolution\Generator.DataType\obj\Debug\Generator.DataType.dll
+D:\TestWork\GeneratorSolution\Generator.DataType\obj\Debug\Generator.DataType.pdb

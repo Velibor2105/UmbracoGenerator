@@ -1,0 +1,5 @@
+D:\TestWork\GeneratorSolution\Generator.Namespace\bin\Debug\Generator.Namespace.dll
+D:\TestWork\GeneratorSolution\Generator.Namespace\bin\Debug\Generator.Namespace.pdb
+D:\TestWork\GeneratorSolution\Generator.Namespace\obj\Debug\Generator.Namespace.csprojResolveAssemblyReference.cache
+D:\TestWork\GeneratorSolution\Generator.Namespace\obj\Debug\Generator.Namespace.dll
+D:\TestWork\GeneratorSolution\Generator.Namespace\obj\Debug\Generator.Namespace.pdb

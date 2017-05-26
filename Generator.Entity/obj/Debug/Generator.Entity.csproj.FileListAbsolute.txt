@@ -1,0 +1,5 @@
+D:\TestWork\GeneratorSolution\Generator.Entity\bin\Debug\Generator.Entity.dll
+D:\TestWork\GeneratorSolution\Generator.Entity\bin\Debug\Generator.Entity.pdb
+D:\TestWork\GeneratorSolution\Generator.Entity\obj\Debug\Generator.Entity.dll
+D:\TestWork\GeneratorSolution\Generator.Entity\obj\Debug\Generator.Entity.pdb
+D:\TestWork\GeneratorSolution\Generator.Entity\obj\Debug\Generator.Entity.csprojResolveAssemblyReference.cache

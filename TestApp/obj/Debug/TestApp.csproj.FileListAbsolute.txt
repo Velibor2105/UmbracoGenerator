@@ -1,0 +1,14 @@
+D:\TestWork\GeneratorSolution\TestApp\bin\Debug\TestApp.exe.config
+D:\TestWork\GeneratorSolution\TestApp\obj\Debug\TestApp.csprojResolveAssemblyReference.cache
+D:\TestWork\GeneratorSolution\TestApp\bin\Debug\TestApp.exe
+D:\TestWork\GeneratorSolution\TestApp\bin\Debug\TestApp.pdb
+D:\TestWork\GeneratorSolution\TestApp\bin\Debug\Generator.Entity.dll
+D:\TestWork\GeneratorSolution\TestApp\bin\Debug\Generator.Parser.dll
+D:\TestWork\GeneratorSolution\TestApp\bin\Debug\Generator.Entity.pdb
+D:\TestWork\GeneratorSolution\TestApp\bin\Debug\Generator.Parser.pdb
+D:\TestWork\GeneratorSolution\TestApp\obj\Debug\TestApp.exe
+D:\TestWork\GeneratorSolution\TestApp\obj\Debug\TestApp.pdb
+D:\TestWork\GeneratorSolution\TestApp\bin\Debug\Generator.Api.dll
+D:\TestWork\GeneratorSolution\TestApp\bin\Debug\Generator.Api.pdb
+D:\TestWork\GeneratorSolution\TestApp\bin\Debug\Generator.DataType.dll
+D:\TestWork\GeneratorSolution\TestApp\bin\Debug\Generator.DataType.pdb

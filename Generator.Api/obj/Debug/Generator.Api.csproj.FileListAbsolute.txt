@@ -1,0 +1,11 @@
+D:\TestWork\GeneratorSolution\Generator.Api\bin\Debug\Generator.Api.dll
+D:\TestWork\GeneratorSolution\Generator.Api\bin\Debug\Generator.Api.pdb
+D:\TestWork\GeneratorSolution\Generator.Api\obj\Debug\Generator.Api.csprojResolveAssemblyReference.cache
+D:\TestWork\GeneratorSolution\Generator.Api\obj\Debug\Generator.Api.dll
+D:\TestWork\GeneratorSolution\Generator.Api\obj\Debug\Generator.Api.pdb
+D:\TestWork\GeneratorSolution\Generator.Api\bin\Debug\Generator.Entity.dll
+D:\TestWork\GeneratorSolution\Generator.Api\bin\Debug\Generator.Parser.dll
+D:\TestWork\GeneratorSolution\Generator.Api\bin\Debug\Generator.Entity.pdb
+D:\TestWork\GeneratorSolution\Generator.Api\bin\Debug\Generator.Parser.pdb
+D:\TestWork\GeneratorSolution\Generator.Api\bin\Debug\Generator.DataType.dll
+D:\TestWork\GeneratorSolution\Generator.Api\bin\Debug\Generator.DataType.pdb
